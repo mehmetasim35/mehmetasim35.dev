@@ -1,6 +1,5 @@
 ---
 icon: ffas fa-l fa-lg
-target: _blank
-redirect_to: https://limevision.se
+redirect_to: [Link to lv](https://limevision.se){:target="_blank"}
 order: 4
 ---
