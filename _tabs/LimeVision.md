@@ -1,5 +1,6 @@
 ---
 icon: ffas fa-l fa-lg
-link: https://limevision.se
+redirect_to: link_to ‘Cool site’, “https://limevision.se”, :target =>
+‘_blank’ 
 order: 4
 ---
