@@ -1,11 +1,5 @@
-## kausar.dev
+Welcome to my GitHub website at [indomet.github.io](https://indomet.github.io/)! Here, you'll discover my personal blogs, informative articles, and practical guides on various topics. 
 
-Jekyll source of my technical blog
+Feel free to browse my blogs, articles, and detailed guides. If you have any questions, comments, or suggestions, please don't hesitate to reach out to me.
 
-## License
-The Jekyll theme and config are published under MIT license. Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
-
-However the material such as posts, drafts and some files under images are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) unless noted otherwise.
-- **_posts**
-- **_drafts**
-- **assets**
+Thank you for visiting, and enjoy your time at [indomet.github.io](https://indomet.github.io/)!

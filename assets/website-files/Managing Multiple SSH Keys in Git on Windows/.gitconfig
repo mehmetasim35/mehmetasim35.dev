@@ -1,0 +1,11 @@
+[credential "https://git.chalmers.se"]
+	provider = generic
+[user]
+	name = first_username
+	email = someone@example.com
+
+[credential "https://github.com"]
+	provider = generic
+[user]
+	name = second_username
+	email = someone2@example.com
