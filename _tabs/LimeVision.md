@@ -1,5 +1,6 @@
 ---
 icon: ffas fa-l fa-lg
-onclick: window.open('https://limevision.se', '_blank')
+redirect_to: https://limevision.se
 order: 4
+target: _blank
 ---
