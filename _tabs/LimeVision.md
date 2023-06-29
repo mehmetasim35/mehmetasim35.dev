@@ -1,6 +1,6 @@
 ---
 icon: ffas fa-l fa-lg
-
-_blank: https://limevision.se
+redirect_to, target: https://limevision.se _blank
 order: 4
+
 ---
