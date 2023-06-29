@@ -5,6 +5,7 @@ categories: [Git]
 tags: [Git,Gitlab,Github]
 ---
 
+
 When you need to correct the committer information in your Git repository, follow these steps:
 
 **Note**: Modifying commit history using `git filter-branch` and forcefully pushing changes can have significant consequences. It's important to exercise caution and understand the implications before proceeding.
