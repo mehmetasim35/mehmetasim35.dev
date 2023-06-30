@@ -1,6 +1,6 @@
 ---
 layout: home
-icon: fas fa-tags
+icon: fas fa-home
 order: 1
 ---
 
