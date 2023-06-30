@@ -7,7 +7,6 @@ pin: true
 ---
 
 
-{% include popup.html %}
 ## Vad är varaktigt bosatt och varför bör du ansöka det?
 
 Varaktigt bosatt, även känt som "Long-Term Residence" på engelska, är ett uppehållstillstånd som gör det möjligt för dig att bo i många europeiska länder, inklusive Sverige. Att få detta uppehållstillstånd har stora fördelar. Det innebär att du fritt kan resa och bo i olika europeiska länder utan några begränsningar.
