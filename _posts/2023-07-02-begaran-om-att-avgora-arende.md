@@ -1,8 +1,8 @@
 ---
 layout: mypost
-title: Begäran att avgöra ärende
+title: Begäran om att avgöra ärende
 categories: [Migrationsverket,1. Svenska]
-tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet,Izin tinggal jangka panjang, Överklaga begäran att avgöra ärende, Begäran att avgöra ärende]
+tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet,Izin tinggal jangka panjang, Överklaga begäran om att avgöra ärende, Begäran om att avgöra ärende]
 ---
 
 Om du har ett pågående ärende hos Migrationsverket som har pågått i mer än sex månader, kan du begära att få ärendet avgjort inom fyra veckor enligt förvaltningslagen (FL) 12 §.
@@ -13,9 +13,7 @@ Notera att om du har ansökt med pappersdokument, bör tiden räknas från dagen
 
 https://drive.google.com/uc?export=view&id=19bpse0kTEoheNtzf2ftq0L-USB1bE2A1 -->
 
-![Image Description](https://drive.google.com/uc?export=view&id=19bpse0kTEoheNtzf2ftq0L-USB1bE2A1)
---
-![Image Description](https://drive.google.com/file/d/19bpse0kTEoheNtzf2ftq0L-USB1bE2A1/view?usp=drive_link)
+<img src="//drive.google.com/file/d/19bpse0kTEoheNtzf2ftq0L-USB1bE2A1/preview">
 
 ## Hur kan man begära att avgöra sitt ärende'?
 Du kan fylla i blanketten <a href="https://www.migrationsverket.se/download/18.1ef19f6e163f45d340aa51/1682667588314/270011_Begaran_avgora_arende_sv.pdf" target="_blank">Begäran om att avgöra ärende (blankettnummer 270011)</a>
