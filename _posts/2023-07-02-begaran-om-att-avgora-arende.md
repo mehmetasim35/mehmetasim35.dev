@@ -12,7 +12,7 @@ Notera att om du har ansökt med pappersdokument, bör tiden räknas från dagen
  
 
 
-![Desktop View](/assets/website-files/Migrationsverket/begaran/pappersansokan.png)
+![Desktop View](/assets/website-files/Migrationsverket/begaran/figure1.jpg)
 _test_
 
 
