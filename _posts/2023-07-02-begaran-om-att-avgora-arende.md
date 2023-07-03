@@ -13,9 +13,10 @@ Notera att om du har ansökt med pappersdokument, bör tiden räknas från dagen
 
 https://drive.google.com/uc?export=view&id=19bpse0kTEoheNtzf2ftq0L-USB1bE2A1 -->
 
-<img src="https://drive.google.com/uc?export=view&id=19bpse0kTEoheNtzf2ftq0L-USB1bE2A1">
+![Image Description](https://drive.google.com/uc?export=view&id=19bpse0kTEoheNtzf2ftq0L-USB1bE2A1)
 --
 <img src="https://drive.google.com/file/d/19bpse0kTEoheNtzf2ftq0L-USB1bE2A1/view?usp=drive_link">
+
 ## Hur kan man begära att avgöra sitt ärende'?
 Du kan fylla i blanketten <a href="https://www.migrationsverket.se/download/18.1ef19f6e163f45d340aa51/1682667588314/270011_Begaran_avgora_arende_sv.pdf" target="_blank">Begäran om att avgöra ärende (blankettnummer 270011)</a>
 och mejla den till migrationsverket@migrationsverket.se eller skicka den per post till Migrationsverket, 601 70 Norrköping. Jag rekommenderar att skicka den via mejl eftersom det går snabbare.
