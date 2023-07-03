@@ -12,7 +12,7 @@ Notera att om du har ansökt med pappersdokument, bör tiden räknas från dagen
  
 
 
-![Desktop View](/figure1.jpg)
+![Desktop View](https://mehmetasim35.github.io/figure1.jpg)
 _test_
 
 
