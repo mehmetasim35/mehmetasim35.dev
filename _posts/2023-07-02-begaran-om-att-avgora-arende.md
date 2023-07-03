@@ -11,24 +11,11 @@ Notera att om du har ansökt med pappersdokument, bör tiden räknas från dagen
 
  
 
-<!-- https://drive.google.com/file/d/19bpse0kTEoheNtzf2ftq0L-USB1bE2A1/view?usp=drive_link
-
-https://drive.google.com/uc?export=view&id=19bpse0kTEoheNtzf2ftq0L-USB1bE2A1 -->
-
-![Desktop View](https://drive.google.com/uc?export=view&id=19bpse0kTEoheNtzf2ftq0L-USB1bE2A1){: w="482" h="322" }
-
-
 
 ![Desktop View](/assets/website-files/Migrationsverket/begaran/pappersansokan.png)
 _test_
 
 
-
-<img src="https://raw.githubusercontent.com/mehmetasim35/mehmetasim35.github.io/main/assets/website-files/Migrationsverket/begaran/pappersansokan.png" alt="IMG_4627" style="zoom:30%;" />
-
-<img src="/assets/website-files/Migrationsverket/begaran/figure1.jpg" alt="" height="50"/>
-
-<img src="https://mehmetasim35.github.io/assets/website-files/Migrationsverket/begaran/pappersansokan.jpg" alt="" style="height: 100%; width: 100%;">
 
 ## Hur kan man begära att avgöra sitt ärende'?
 Du kan fylla i blanketten <a href="https://www.migrationsverket.se/download/18.1ef19f6e163f45d340aa51/1682667588314/270011_Begaran_avgora_arende_sv.pdf" target="_blank">Begäran om att avgöra ärende (blankettnummer 270011)</a>
