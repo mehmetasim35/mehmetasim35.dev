@@ -22,7 +22,8 @@ https://drive.google.com/uc?export=view&id=19bpse0kTEoheNtzf2ftq0L-USB1bE2A1 -->
 
 <img src="/assets/website-files/Migrationsverket/begaran/pappersansokan.png" alt="" style="height: 100%; width: 100%;"> -->
 
-<img src="https://drive.google.com/uc?export=view&id=19bpse0kTEoheNtzf2ftq0L-USB1bE2A1" alt="Image Description">
+<img src="https://github.com/mehmetasim35/repository/raw/blob/main/assets/website-files/Migrationsverket/begaran/pappersansokan.jpg" alt="Image Description">
+" alt="Image Description">
 
 
 
