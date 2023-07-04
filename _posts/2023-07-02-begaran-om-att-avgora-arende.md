@@ -1,5 +1,5 @@
 ---
-layout: mypost
+layout: post
 title: Begäran om att avgöra ärende
 categories: [Migrationsverket,1. Svenska]
 tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet,Izin tinggal jangka panjang, Överklaga begäran om att avgöra ärende, Begäran omatt avgöra ärende]
