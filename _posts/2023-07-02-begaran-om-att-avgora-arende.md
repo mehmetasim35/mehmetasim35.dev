@@ -10,6 +10,17 @@ Om du har ett pågående ärende hos Migrationsverket som har pågått i mer än
 Notera att om du har ansökt med pappersdokument, bör tiden räknas från dagen då ärendet registrerades hos Migrationsverket. Var försiktig med hur du räknar de sex månaderna, eftersom felaktig tidsberäkning kan resultera i avslag.
 
  
+<!-- https://drive.google.com/file/d/19bpse0kTEoheNtzf2ftq0L-USB1bE2A1/view?usp=drive_link
+
+https://drive.google.com/uc?export=view&id=19bpse0kTEoheNtzf2ftq0L-USB1bE2A1 -->
+
+![Desktop View](https://drive.google.com/uc?export=view&id=19bpse0kTEoheNtzf2ftq0L-USB1bE2A1){: w="482" h="322" }
+
+<img src="https://raw.githubusercontent.com/mehmetasim35/mehmetasim35.github.io/main/assets/website-files/Migrationsverket/begaran/pappersansokan.png" alt="IMG_4627" style="zoom:30%;" />
+
+<img src="/assets/website-files/Migrationsverket/begaran/figure1.jpg" alt="" height="50"/>
+
+<img src="https://mehmetasim35.github.io/assets/website-files/Migrationsverket/begaran/pappersansokan.jpg" alt="" style="height: 100%; width: 100%;">
 
 
 ![Desktop View](/figure1.jpg)
