@@ -21,11 +21,11 @@ https://drive.google.com/uc?export=view&id=19bpse0kTEoheNtzf2ftq0L-USB1bE2A1 -->
 ![Desktop View](/assets/images/pappersansokan.jpg)
 
 <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Indomet/indomet.github.io/blob/main/assets/website-files/Managing%20Multiple%20SSH%20Keys%20in%20Git%20on%20Windows/.gitconfig" target="_blank">`.gitconfig`</a>
+<div>
+<center> <iframe allow="autoplay" height="322" src="/assets/website-files/Migrationsverket/begaran/pappersansokan.jpg" width="482"></iframe> </center> 
 
-<center> <iframe allow="autoplay" height="100%" src="/assets/website-files/Migrationsverket/begaran/pappersansokan.jpg" width="100%"></iframe> </center> 
-
-<center><iframe allow="autoplay" height="45%" src="//drive.google.com/file/d/14XunV_8mIqB_2eS_1crsvA_8Eo7BAnqT/preview" width="100%"></iframe> </center> 
-
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/14XunV_8mIqB_2eS_1crsvA_8Eo7BAnqT/preview" width="640"></iframe> </center> 
+</div>
 <iframe allow="autoplay" height="350" src="//drive.google.com/file/d/14XunV_8mIqB_2eS_1crsvA_8Eo7BAnqT/preview" width="640"></iframe>
 
 <img src="https://raw.githubusercontent.com/mehmetasim35/mehmetasim35.github.io/main/assets/website-files/Migrationsverket/begaran/pappersansokan.png" alt="IMG_4627" style="zoom:30%;" />
