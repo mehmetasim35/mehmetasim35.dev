@@ -21,7 +21,7 @@ https://drive.google.com/uc?export=view&id=19bpse0kTEoheNtzf2ftq0L-USB1bE2A1 -->
 ![Desktop View](/assets/images/pappersansokan.jpg)
 
 
-<img src="/assets/images/pappersansokan.jpg" alt="Image Alt Text" style="width: 640px; height: 350px; " style="text-align: center;">
+<img src="/assets/images/pappersansokan.jpg" alt="Image Alt Text" style="width: 640px; height: 350px; ">
 
 
 
