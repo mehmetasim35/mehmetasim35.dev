@@ -4,6 +4,7 @@ title: Begäran om att avgöra ärende
 categories: [Migrationsverket,1. Svenska]
 tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet,Izin tinggal jangka panjang, Överklaga begäran om att avgöra ärende, Begäran omatt avgöra ärende]
 math: true
+mermaid: true
 # image:
 #     path: /assets/images/pappersansokan.jpg
 #     alt: PowerLevel10K Setup 
