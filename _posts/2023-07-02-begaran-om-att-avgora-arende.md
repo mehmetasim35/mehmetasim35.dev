@@ -23,7 +23,7 @@ https://drive.google.com/uc?export=view&id=19bpse0kTEoheNtzf2ftq0L-USB1bE2A1 -->
 <!-- <img src="/images/pappersansokan.jpg" alt="" style="height: 100%; width: 100%;"> -->
 
 
-![Desktop View](/figure1.jpg)
+<!-- ![Desktop View](/figure1.jpg) -->
 _test_
 
 <!-- <img border="0" data-original-height="630" data-original-width="1200" height="168" src="https://mehmetasim35.github.io/assets/website-files/Migrationsverket/begaran/pappersansokan.jpg" width="320"> -->
