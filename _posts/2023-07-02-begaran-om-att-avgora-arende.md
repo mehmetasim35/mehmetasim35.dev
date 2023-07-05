@@ -3,9 +3,10 @@ layout: mypost
 title: Begäran om att avgöra ärende
 categories: [Migrationsverket,1. Svenska]
 tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet,Izin tinggal jangka panjang, Överklaga begäran om att avgöra ärende, Begäran omatt avgöra ärende]
-image:
-    path: /assets/images/pappersansokan.jpg
-    alt: PowerLevel10K Setup 
+math: true
+# image:
+#     path: /assets/images/pappersansokan.jpg
+#     alt: PowerLevel10K Setup 
 ---
 
 Om du har ett pågående ärende hos Migrationsverket som har pågått i mer än sex månader, kan du begära att få ärendet avgjort inom fyra veckor enligt förvaltningslagen (FL) 12 §.
