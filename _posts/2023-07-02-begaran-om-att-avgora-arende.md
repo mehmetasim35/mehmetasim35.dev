@@ -18,7 +18,11 @@ Notera att om du har ansökt med pappersdokument, bör tiden räknas från dagen
 
 https://drive.google.com/uc?export=view&id=19bpse0kTEoheNtzf2ftq0L-USB1bE2A1 -->
 
-![Desktop View](/assets/images/pappersansokan.jpg/preview)
+![Desktop View](/assets/images/pappersansokan.jpg)
+
+
+<iframe allow="autoplay" height="350" src="/assets/images/pappersansokan.jpg" width="640"></iframe> 
+
 
 <img src="https://raw.githubusercontent.com/mehmetasim35/mehmetasim35.github.io/main/assets/website-files/Migrationsverket/begaran/pappersansokan.png" alt="IMG_4627" style="zoom:30%;" />
 
