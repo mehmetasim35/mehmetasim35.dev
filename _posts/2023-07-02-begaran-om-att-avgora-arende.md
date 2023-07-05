@@ -20,6 +20,7 @@ https://drive.google.com/uc?export=view&id=19bpse0kTEoheNtzf2ftq0L-USB1bE2A1 -->
 
 ![Desktop View](/assets/images/pappersansokan.jpg)
 
+<a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Indomet/indomet.github.io/blob/main/assets/website-files/Managing%20Multiple%20SSH%20Keys%20in%20Git%20on%20Windows/.gitconfig" target="_blank">`.gitconfig`</a>
 
 <center> <iframe allow="autoplay" height="322" src="/assets/website-files/Migrationsverket/begaran/pappersansokan.jpg" width="482"></iframe> </center> 
 
