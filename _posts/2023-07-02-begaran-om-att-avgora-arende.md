@@ -21,7 +21,7 @@ https://drive.google.com/uc?export=view&id=19bpse0kTEoheNtzf2ftq0L-USB1bE2A1 -->
 ![Desktop View](/assets/images/pappersansokan.jpg)
 
 
-<center> <iframe allow="autoplay" height="482" src="/assets/website-files/Migrationsverket/begaran/pappersansokan.jpg" style="text-align: center;" width="322"></iframe> </center> 
+<center> <iframe allow="autoplay" height="322" src="/assets/website-files/Migrationsverket/begaran/pappersansokan.jpg" style="text-align: center;" width="482"></iframe> </center> 
 
 
 <img src="https://raw.githubusercontent.com/mehmetasim35/mehmetasim35.github.io/main/assets/website-files/Migrationsverket/begaran/pappersansokan.png" alt="IMG_4627" style="zoom:30%;" />
