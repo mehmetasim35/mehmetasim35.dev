@@ -21,7 +21,9 @@ https://drive.google.com/uc?export=view&id=19bpse0kTEoheNtzf2ftq0L-USB1bE2A1 -->
 ![Desktop View](/assets/images/pappersansokan.jpg)
 
 
-<iframe allow="autoplay" height="350" src="/assets/images/pappersansokan.jpg" width="640"></iframe> 
+<div style="text-align: center;">
+  <img src="/assets/images/pappersansokan.jpg" alt="Image Alt Text" style="width: 640px; height: 350px;">
+</div>
 
 
 <img src="https://raw.githubusercontent.com/mehmetasim35/mehmetasim35.github.io/main/assets/website-files/Migrationsverket/begaran/pappersansokan.png" alt="IMG_4627" style="zoom:30%;" />
