@@ -120,9 +120,10 @@ Jag vill överklaga migrationsverkets beslut angående min begäran om att avgö
 och jag önskar att det avgörs så snabbt som möjligt.
 ```
 
-<!-- <div>
+Du kan också använda den här Google Dokumentmallen för att skriva ditt eget överklagande.
+<div>
 <center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1FvlfHhnHkqY-kF6_e9bGsVaJ94fUgvfaB1J4xAglu_E/preview" width="85%"></iframe> </center> 
-</div> -->
+</div>
 ## Viktiga punkter att komma ihåg
 - Du kan bara begära att få ärendet avgjort en gång.
 - Överklagandet måste göras inom tre veckor från det att du fått beslutet.
