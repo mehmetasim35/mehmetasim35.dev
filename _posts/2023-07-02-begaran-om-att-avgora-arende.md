@@ -29,19 +29,33 @@ Migrationsverket har inte hunnit fatta beslut i ditt medborgarskapsärende inom 
 Överklagandet måste vara skriftligt
 Här är några ``exempel`` som visar hur man överklagar. Jag rekommenderar att alla skriver sin egen överklagan.
 
+Du behöver inkludera några personuppgifter i överklagandet:
 ```
 Namn:
 Personnummer:
 Beteckningsnummer:
-adress:
+Adress:
+Epostadrss:
+Telefonnummer:
+
+Ort och datum
+Underskrift
+```
+
+```
+Namn:
+Personnummer:
+Beteckningsnummer:
+Adress:
 Epostadrss:
 Telefonnummer:
 
 Hej!
-Jag vill överklaga beslutet angående mitt ärende där Migrationsverket beslutade att avslå min begäran om att avgöra ärendet om 
-svenskt medborgarskap. Enligt förvaltningslagen (2017:900), 12§, ska Migrationsverket avgöra ärendet om medborgarskapet inom fyra 
-veckor. Jag har inte fått något beslut angående mitt ärende om svenskt medborgarskap, och därför vill jag överklaga beslutet. Jag 
-önskar att ni fattar ett positivt beslut så snart som möjligt.
+Jag vill överklaga beslutet angående mitt ärende där Migrationsverket beslutade att avslå min begäran 
+om att avgöra ärendet om svenskt medborgarskap. Enligt förvaltningslagen (2017:900), 12§, ska 
+Migrationsverket avgöra ärendet om medborgarskapet inom fyra veckor. Jag har inte fått något beslut 
+angående mitt ärende om svenskt medborgarskap, och därför vill jag överklaga beslutet. Jag önskar 
+att ni fattar ett positivt beslut så snart som möjligt.
 
 
 Med vänliga hälsningar,
@@ -53,77 +67,37 @@ Underskrift
 ```
 
 ```
-Namn:
-Personnummer:
-Beteckningsnummer:
-adress:
-Epostadrss:
-Telefonnummer:
-
-Hej!
-Jag skulle vilja överklaga migrationsverkets beslut att avslå min begäran om att avgöra mitt ärende gällande svensk medborgarskap. 
-Det har gått mer än sex månader sedan jag ansökte om medborgarskapet. Enligt lagen har jag rätt att få ett beslut från Migrationsverket 
-inom fyra veckor från dagen då de har fått in min begäran. Jag uppfyller alla krav för att kunna få svenskt medborgarskap, och det finns 
+Jag skulle vilja överklaga migrationsverkets beslut att avslå min begäran om att avgöra mitt ärende 
+gällande svensk medborgarskap. Det har gått mer än sex månader sedan jag ansökte om medborgarskapet. 
+Enligt lagen har jag rätt att få ett beslut från Migrationsverket inom fyra veckor från dagen då de 
+har fått in min begäran. Jag uppfyller alla krav för att kunna få svenskt medborgarskap, och det finns 
 inga övertygande skäl som motiverar en förlängning av beslutstiden.
-
-Med vänliga hälsningar,
-Namn
-
-
-Ort och datum
-Underskrift
 ```
 
 ```
-Namn:
-Personnummer:
-Beteckningsnummer:
-adress:
-Epostadrss:
-Telefonnummer:
-
-Hej!
-Jag skulle vilja överklaga migrationsverkets beslut att avslå min begäran om att avgöra mitt ärende om svenskt medborgarskap inom fyra 
-veckor. Jag har lämnat min ansökan om svenskt medborgarskap för mer än sex månader sedan. Jag anser enligt lagen att jag har rätt till 
-att få ett beslut från Migrationsverket inom fyra veckor från den dagen då migrationsverket har fått in min begäran. Jag uppfyller alla 
-krav för att kunna få svenskt medborgarskapet och det finns inga övertygande skäl som gör att beslutet ska fördröjas mer.
-
-Med vänliga hälsningar,
-Namn
-
-
-Ort och datum
-Underskrift
+Jag skulle vilja överklaga migrationsverkets beslut att avslå min begäran om att avgöra mitt ärende 
+om svenskt medborgarskap inom fyra veckor. Jag har lämnat min ansökan om svenskt medborgarskap för 
+mer än sex månader sedan. Jag anser enligt lagen att jag har rätt till att få ett beslut från 
+Migrationsverket inom fyra veckor från den dagen då migrationsverket har fått in min begäran. Jag 
+uppfyller alla krav för att kunna få svenskt medborgarskapet och det finns inga övertygande skäl 
+som gör att beslutet ska fördröjas mer.
 ```
 
 ```
-Namn:
-Personnummer:
-Beteckningsnummer:
-adress:
-Epostadrss:
-Telefonnummer:
-Hej!
-
-Jag vill överklaga migrationsverkets beslut angående min begäran om att avgöra mitt ärende. Mitt ärende gäller att få svenskt medborgarskap, 
-och jag önskar att det avgörs så snabbt som möjligt.
-
-Med vänliga hälsningar,
-Namn
-
-Ort och datum
-Underskrift
+Jag vill överklaga migrationsverkets beslut angående min begäran om att avgöra mitt ärende. Mitt 
+ärende gäller att få svenskt medborgarskap, och jag önskar att det avgörs så snabbt som möjligt.
 ```
 
 ```
-Jag vill överklaga migrationsverkets beslut angående min begäran om att avgöra mitt ärende. Mitt ärende gäller att få svenskt medborgarskap, 
-och jag önskar att det avgörs så snabbt som möjligt.
+Jag vill överklaga migrationsverkets beslut angående min begäran om att avgöra mitt ärende. Mitt 
+ärende gäller att få svenskt medborgarskap, och jag önskar att det avgörs så snabbt som möjligt.
 ```
 
 Du kan också använda den här Google Dokumentmallen för att skriva ditt eget överklagande.
 <div>
 <center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1FvlfHhnHkqY-kF6_e9bGsVaJ94fUgvfaB1J4xAglu_E/preview" width="85%"></iframe> </center> 
 </div>
+
 ## Viktiga punkter att komma ihåg
 - Du kan bara begära att få ärendet avgjort en gång.
 - Överklagandet måste göras inom tre veckor från det att du fått beslutet.

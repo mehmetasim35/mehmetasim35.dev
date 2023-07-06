@@ -1,5 +1,5 @@
 ---
-layout: mypost
+layout: post
 title: Cara Memperbaiki Informasi Committer yang Salah dalam Git
 categories: [Git,4.Bahasa Indonesia]
 tags: [Git, Gitlab, Github, Commit]

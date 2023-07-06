@@ -1,5 +1,5 @@
 ---
-layout: mypost
+layout: post
 title: Hur kan man fixa felaktig comitter i git
 categories: [Git,2. Svenska]
 tags: [Git, Gitlab, Github]
