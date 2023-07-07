@@ -17,7 +17,7 @@ Notera att om du har ansökt med pappersdokument, bör tiden räknas från dagen
 _I denna exempel räknar man från den 2 januari 2023._
 
 ## Hur kan man begära att avgöra sitt ärende'?
-Du kan fylla i blanketten <a href="https://www.migrationsverket.se/download/18.1ef19f6e163f45d340aa51/1682667588314/270011_Begaran_avgora_arende_sv.pdf" target="_blank">Begäran om att avgöra ärende (blankettnummer 270011)</a> och mejla den till migrationsverket@migrationsverket.se eller skicka den per post till Migrationsverket, 601 70 Norrköping. Jag rekommenderar att skicka den via mejl eftersom det går snabbare.
+Du kan fylla i blanketten <a href="https://www.migrationsverket.se/download/18.1ef19f6e163f45d340aa51/1682667588314/270011_Begaran_avgora_arende_sv.pdf" target="_blank">Begäran om att avgöra ärende (blankettnummer 270011)</a> och mejla den till `migrationsverket@migrationsverket.se` eller skicka den per post till Migrationsverket, 601 70 Norrköping. Jag rekommenderar att skicka den via mejl eftersom det går snabbare.
 
 ## Vad gör man om man får avslag på sin begäran?
 Det är ganska vanligt att människors ansökningar om att få sina ärenden avgjorda avslås hos Migrationsverket. För närvarande är besluten dessutom automatiserade hos myndigheten, och avslagsmotiveringen kan se ut som följer:
@@ -26,8 +26,8 @@ Migrationsverket har inte hunnit fatta beslut i ditt medborgarskapsärende inom 
 
 ## Hur man överklagar på begäran
 
-Överklagandet måste vara skriftligt
-Här är några ``exempel`` som visar hur man överklagar. Jag rekommenderar att alla skriver sin egen överklagan.
+Överklagandet måste vara skriftligt.
+Här är några `exempel` som visar hur man överklagar. Dessa exempel gäller för svenskt medborgarskap, men du kan anpassa dem till ditt eget ärende. Jag rekommenderar att alla skriver sin egen överklagan.
 
 Du behöver inkludera några personuppgifter i överklagandet:
 ```

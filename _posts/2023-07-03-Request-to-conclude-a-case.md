@@ -17,7 +17,7 @@ Please note that if you have applied using paper documents, the calculation of t
 _In this example, we count from January 2, 2023._
 
 ## How to Request a Decision on Your Case
-You can fill out the form <a href="https://www.migrationsverket.se/download/18.1ef19f6e163f45d340aa52/1682667659674/271011_Request_conclude_case_en.pdf" target="_blank">Request to conclude a case (form number 271011)</a> and email it to migrationsverket@migrationsverket.se or send it by mail to Migrationsverket, 601 70 Norrköping, Sweden. I recommend sending it via email as it is faster.
+You can fill out the form <a href="https://www.migrationsverket.se/download/18.1ef19f6e163f45d340aa52/1682667659674/271011_Request_conclude_case_en.pdf" target="_blank">Request to conclude a case (form number 271011)</a> and email it to `migrationsverket@migrationsverket.se` or send it by mail to Migrationsverket, 601 70 Norrköping, Sweden. I recommend sending it via email as it is faster.
 
 <a href="https://www.migrationsverket.se/download/18.1ef19f6e163f45d340aa51/1682667588314/270011_Begaran_avgora_arende_sv.pdf" target="_blank">Request for Decision on a Case (form number 270011) in Swedish</a>
 
@@ -29,8 +29,9 @@ Migrationsverket has not been able to make a decision on your citizenship case w
 ## How to Appeal the Decision
 
 The appeal must be in writing.
-Here are some ``examples`` showing how to appeal. I recommend that everyone writes their own appeal.
+Here are some `examples` that show how to appeal. These examples are for Swedish citizenship, but you can customize them for your own case. I recommend that everyone writes their own appeal.
 
+I also have this part in<a href="posts/begaran-om-att-avgora-arende/#hur-man-överklagar-på-begäran" target="_blank">swedish</a>.
 You need to include some personal information in the appeal:
 ```
 Name:
