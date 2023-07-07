@@ -2,7 +2,7 @@
 layout: post
 title: Begäran om att avgöra ärende
 categories: [Migrationsverket,1. Svenska]
-tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet,Izin tinggal jangka panjang, Överklaga begäran om att avgöra ärende, Begäran omatt avgöra ärende]
+tags: [Migrationsverket, Long-term residence, Apply, Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet,Izin tinggal jangka panjang,Överklaga begäran om att avgöra ärende, Begäran om att avgöra ärende,Request for decision,Request to conclude a case,]
 
 # image:
 #     path: /assets/images/pappersansokan.jpg
@@ -85,7 +85,7 @@ Jag vill överklaga migrationsverkets beslut angående min begäran om att avgö
 ärende gäller att få svenskt medborgarskap, och jag önskar att det avgörs så snabbt som möjligt.
 ```
 
-Du kan också använda <a href="https://docs.google.com/document/d/1FvlfHhnHkqY-kF6_e9bGsVaJ94fUgvfaB1J4xAglu_E/edit?usp=sharing" target="_blank">den här Google Dokumentmallen</a>för att skriva ditt eget överklagande.
+Du kan också använda <a href="https://docs.google.com/document/d/1FvlfHhnHkqY-kF6_e9bGsVaJ94fUgvfaB1J4xAglu_E/edit?usp=sharing" target="_blank">den här Google Dokumentmallen</a> för att skriva ditt eget överklagande.
 
 <div>
 <center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1FvlfHhnHkqY-kF6_e9bGsVaJ94fUgvfaB1J4xAglu_E/preview" width="85%"></iframe> </center> 

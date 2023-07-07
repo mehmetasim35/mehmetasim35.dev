@@ -2,7 +2,7 @@
 layout: post
 title: Hur kan man fixa felaktig comitter i git
 categories: [Git,2. Svenska]
-tags: [Git, Gitlab, Github]
+tags: [Git, Gitlab, Github, Commit]
 ---
 
 När du behöver korrigera författarinformationen i ditt Git-repositorium, följ dessa steg:

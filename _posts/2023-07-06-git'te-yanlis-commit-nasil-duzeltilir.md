@@ -2,7 +2,7 @@
 layout: post
 title: Git'te Yanlış Commit Nasıl Düzeltilir?
 categories: [Git,3. Türkçe]
-tags: [Git, Gitlab, Github]
+tags: [Git, Gitlab, Github, Commit]
 ---
 
 Git deposundaki commit bilgilerini düzeltmeniz gerektiğinde, aşağıdaki adımları izleyin:
