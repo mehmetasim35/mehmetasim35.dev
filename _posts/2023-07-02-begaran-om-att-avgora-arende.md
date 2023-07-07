@@ -95,7 +95,7 @@ Jag vill överklaga migrationsverkets beslut angående min begäran om att avgö
 
 Du kan också använda den här Google Dokumentmallen för att skriva ditt eget överklagande.
 <div>
-<center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1FvlfHhnHkqY-kF6_e9bGsVaJ94fUgvfaB1J4xAglu_E/preview" width="85%"></iframe> </center> 
+<center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1FvlfHhnHkqY-kF6_e9bGsVaJ94fUgvfaB1J4xAglu_E/preview" target="_blank" width="85%"></iframe> </center> 
 </div>
 
 ## Viktiga punkter att komma ihåg
