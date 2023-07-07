@@ -38,34 +38,23 @@ Adress:
 Epostadrss:
 Telefonnummer:
 
+**Överklagandet här**
+
 Ort och datum
 Underskrift
 ```
 
+Exempel 1:
 ```
-Namn:
-Personnummer:
-Beteckningsnummer:
-Adress:
-Epostadrss:
-Telefonnummer:
-
 Hej!
 Jag vill överklaga beslutet angående mitt ärende där Migrationsverket beslutade att avslå min begäran 
 om att avgöra ärendet om svenskt medborgarskap. Enligt förvaltningslagen (2017:900), 12§, ska 
 Migrationsverket avgöra ärendet om medborgarskapet inom fyra veckor. Jag har inte fått något beslut 
 angående mitt ärende om svenskt medborgarskap, och därför vill jag överklaga beslutet. Jag önskar 
 att ni fattar ett positivt beslut så snart som möjligt.
-
-
-Med vänliga hälsningar,
-Namn
-
-
-Ort och datum
-Underskrift
 ```
 
+Exempel 2:
 ```
 Jag skulle vilja överklaga migrationsverkets beslut att avslå min begäran om att avgöra mitt ärende 
 gällande svensk medborgarskap. Det har gått mer än sex månader sedan jag ansökte om medborgarskapet. 
@@ -74,6 +63,7 @@ har fått in min begäran. Jag uppfyller alla krav för att kunna få svenskt me
 inga övertygande skäl som motiverar en förlängning av beslutstiden.
 ```
 
+Exempel 3:
 ```
 Jag skulle vilja överklaga migrationsverkets beslut att avslå min begäran om att avgöra mitt ärende 
 om svenskt medborgarskap inom fyra veckor. Jag har lämnat min ansökan om svenskt medborgarskap för 
@@ -83,19 +73,22 @@ uppfyller alla krav för att kunna få svenskt medborgarskapet och det finns ing
 som gör att beslutet ska fördröjas mer.
 ```
 
+Exempel 4:
 ```
 Jag vill överklaga migrationsverkets beslut angående min begäran om att avgöra mitt ärende. Mitt 
 ärende gäller att få svenskt medborgarskap, och jag önskar att det avgörs så snabbt som möjligt.
 ```
 
+Exempel 5:
 ```
 Jag vill överklaga migrationsverkets beslut angående min begäran om att avgöra mitt ärende. Mitt 
 ärende gäller att få svenskt medborgarskap, och jag önskar att det avgörs så snabbt som möjligt.
 ```
 
-Du kan också använda den här Google Dokumentmallen för att skriva ditt eget överklagande.
+Du kan också använda <a href="https://docs.google.com/document/d/1FvlfHhnHkqY-kF6_e9bGsVaJ94fUgvfaB1J4xAglu_E/edit?usp=sharing" target="_blank">den här Google Dokumentmallen</a>för att skriva ditt eget överklagande.
+
 <div>
-<center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1FvlfHhnHkqY-kF6_e9bGsVaJ94fUgvfaB1J4xAglu_E/preview" target="_blank" width="85%"></iframe> </center> 
+<center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1FvlfHhnHkqY-kF6_e9bGsVaJ94fUgvfaB1J4xAglu_E/preview" width="85%"></iframe> </center> 
 </div>
 
 ## Viktiga punkter att komma ihåg
