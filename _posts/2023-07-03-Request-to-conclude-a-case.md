@@ -31,7 +31,7 @@ Migrationsverket has not been able to make a decision on your citizenship case w
 The appeal must be in writing.
 Here are some `examples` that show how to appeal. These examples are for Swedish citizenship, but you can customize them for your own case. I recommend that everyone writes their own appeal.
 
-I also have this part in<a href="posts/begaran-om-att-avgora-arende/#hur-man-överklagar-på-begäran" target="_blank">swedish</a>.
+I also have this part in<a href="/posts/begaran-om-att-avgora-arende/#hur-man-överklagar-på-begäran" target="_blank">swedish</a>.
 You need to include some personal information in the appeal:
 ```
 Name:
