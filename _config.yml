@@ -138,7 +138,7 @@ collections:
 
 defaults:
   - scope:
-      path: "_posts/en" # An empty string here means all files in the project
+      path: _posts/en # An empty string here means all files in the project
       type: posts
     values:
       layout: post
@@ -150,7 +150,7 @@ defaults:
       language: en
 
   - scope:
-      path: "_posts/sv" # An empty string here means all files in the project
+      path: _posts/sv # An empty string here means all files in the project
       type: posts
     values:
       layout: post
