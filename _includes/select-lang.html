@@ -1,0 +1,7 @@
+<div class="lang">
+    <ul>
+      {% for post in posts %}
+        <li><a class="{{ post.lang }}" href="{{ site.base-url }}{{ post.url }}">{{ post.lang }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
