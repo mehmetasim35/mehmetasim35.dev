@@ -138,7 +138,7 @@ collections:
 
 defaults:
   - scope:
-      path: _posts/en # An empty string here means all files in the project
+      path: _posts # An empty string here means all files in the project
       type: posts
     values:
       layout: post
@@ -148,9 +148,10 @@ defaults:
       # to update the code of all other post links in this project.
       permalink: /posts/:title/
       language: en
+      base-url: "/"
 
   - scope:
-      path: _posts/sv # An empty string here means all files in the project
+      path: _posts # An empty string here means all files in the project
       type: posts
     values:
       layout: post
@@ -160,7 +161,7 @@ defaults:
       # to update the code of all other post links in this project.
       permalink: /posts/:title/
       language: sv
-
+      base-url: "/"
   - scope:
       path: _drafts
     values:
