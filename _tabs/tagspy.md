@@ -1,5 +1,5 @@
 ---
-icon: ffas fa-l fa-lg
+icon: ffas fa-a fa-lg
 {% include select-lang.html %}
 order: 6
 ---
