@@ -151,7 +151,7 @@ defaults:
 
 
   - scope:
-      path: _posts # An empty string here means all files in the project
+      path: sv/_posts # An empty string here means all files in the project
       type: posts
     values:
       layout: post
