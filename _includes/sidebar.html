@@ -49,6 +49,7 @@
         <img src="/assets/img/limelogo.png" alt="LIMEVISION Logo" width="30%" height="35%" style=" position: absolute; left: 83px;">
       </a>
     </li>
+    {% include select-lang.html %}
   </ul>
 
   <!-- ul.nav.flex-column Indomet -->
@@ -61,7 +62,6 @@
   </ul> -->
   
   <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100">
-    {% include select-lang.html %}
     {% unless site.theme_mode %}
       <button class="mode-toggle btn" aria-label="Switch Mode">
         <i class="fas fa-adjust"></i>
