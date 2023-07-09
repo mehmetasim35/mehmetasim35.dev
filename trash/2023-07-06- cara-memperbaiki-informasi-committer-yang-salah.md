@@ -3,6 +3,7 @@ layout: post
 title: Cara Memperbaiki Informasi Committer yang Salah dalam Git
 categories: [Git,4.Bahasa Indonesia]
 tags: [Git, Gitlab, Github, Commit]
+l
 ---
 
 Jika Anda perlu memperbaiki informasi committer yang salah dalam repositori Git Anda, ikuti langkah-langkah berikut:

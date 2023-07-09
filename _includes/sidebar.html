@@ -61,6 +61,7 @@
   </ul> -->
   
   <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100">
+    {% include select-lang.html %}
     {% unless site.theme_mode %}
       <button class="mode-toggle btn" aria-label="Switch Mode">
         <i class="fas fa-adjust"></i>
@@ -111,7 +112,6 @@
         </a>
       {% endif %}
     {% endfor %}
-    {% include select-lang.html %}
   </div>
   <!-- .sidebar-bottom -->
 </div>
