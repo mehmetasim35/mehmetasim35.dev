@@ -3,12 +3,6 @@ layout: compress
 # Default layout
 ---
 
-{% assign postsTrans=site.posts | where:"i18n-link", page.i18n-link | sort: 'lang' %}
-
-{% if postsTrans.size == 0 %}
-  {% assign postsTrans=site.pages | where:"i18n-link", page.i18n-link | sort: 'lang' %}
-{% endif %}
-
 <!doctype html>
 
 {% include origin-type.html %}
