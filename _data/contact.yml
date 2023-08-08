@@ -30,3 +30,7 @@
 - type: paypal
   icon: 'fab fa-paypal' 
   url: 'https://www.paypal.com/donate/?hosted_button_id=M5ASLFFRJ9ADG'
+
+- type: youtube
+  icon: 'fab fa-youtube'
+  url: 'https://www.youtube.com/@Indomet/videos'
