@@ -106,3 +106,17 @@ Absolut, jag kan omvandla den till Markdown-format och använda en nedfällbar m
 
 rdet för julfrimärken med tryckt valör motsvarar det tryckta portot.
 </details>
+
+
+  <summary style="background-color: #3498db; color: white; padding: 10px; cursor: pointer;">
+    Collapsible Menu
+  </summary>
+  <div style="background-color: #f1c40f; padding: 10px;">
+ ### Går det att använda gamla julfrimärken?
+  Ja, både valörlösa frimärken och frimärken med tryckt valör kan användas under hela året, men de måste i så fall tilläggsfrankeras upp med extra porto för att täcka aktuell avgift för den valda tjänsten. Under perioden för jultrafik är det möjligt att skicka julhälsningar upp till 50 gram med alla sorters julfrimärken, oavsett vilket årtal de är från.
+
+  Valörlösa julfrimärken utanför perioden för jultrafik motsvarar ett inrikes frimärke minus 1 krona. För att använda ett julfrimärke behöver man alltså frankera upp med 1 krona utanför julperiod. Vä
+
+rdet för julfrimärken med tryckt valör motsvarar det tryckta portot.
+  </div>
+</details>
