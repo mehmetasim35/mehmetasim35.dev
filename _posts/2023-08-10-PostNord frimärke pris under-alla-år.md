@@ -38,10 +38,6 @@ Ekonomibrevsfrimärken
 Valörlösa Ekonomibrevsfrimärken motsvarar idag ett porto på 6 kr.
 
 
-
-<details open>
-  <summary>Prishistorik</summary>
-  
   | År         | Pris  |
   |------------|-------|
   | 2023-01-01 | 15    |
@@ -89,4 +85,6 @@ Valörlösa Ekonomibrevsfrimärken motsvarar idag ett porto på 6 kr.
   | 1919-07-01 | 0,15  |
   | 1918-06-01 | 0,12  |
   | 1885-01-01 | 0,1   |
-</details>
+
+
+
